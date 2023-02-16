@@ -21,3 +21,57 @@ span{
 .fuente{
   font-family: 'Raleway', sans-serif;
 }
+
+
+
+.flex-containerr{
+ 
+background-color: #fff;
+margin: 0 auto;
+
+/* activamos flexBox */
+display: flex;
+}
+
+.habilidaes_img{
+  width: 200px;
+  height: 200px;
+  padding:  25px 25px 25px 25px;
+  
+}
+.caja-habilidades{
+  width: 250px;
+  text-align: center;
+  
+  padding-bottom: 150px;
+  margin: 0 auto;
+}
+#descripcion-img{
+  height: 250px;
+  width: 200px;
+}
+#Descripcion-text{
+  width: 400px;
+  text-align: center;
+  padding-right: 60px;
+}
+.caja-subtitulo{
+  width: 250px;
+    text-align: center;
+    font-size: 25px;
+    padding-bottom: 10px;
+}
+.caja-titulo{
+  padding: 50px;
+  text-align: center;
+  font-size: 25px;
+}
+.caja-descripcion{
+  width: 250px;
+ 
+
+  padding-bottom: 100px;
+  margin: 0 auto;
+
+  display: flex;
+}
