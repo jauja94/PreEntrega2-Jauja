@@ -75,3 +75,22 @@ display: flex;
 
   display: flex;
 }
+/* proyectos*/
+#itemProyectos
+  {
+    padding-bottom: 200px;
+  }
+
+  .DosCajas{
+    display: flex;
+    padding-left: 200px;
+  }
+  .proyecImg{
+    width: 390px;
+    height: 300px;
+  }
+
+  .caja-prueba{
+    padding: 0px;
+
+  }
