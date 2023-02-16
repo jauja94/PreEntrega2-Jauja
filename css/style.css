@@ -1,7 +1,23 @@
+/* importacion de fuentes*/
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@300;500&display=swap');
 *{
   padding: 0;
   margin: 0;  
 }
 .inicio{
     padding: 200px 50px 50px 50px;
+}
+
+li a:hover{
+  background-color: rgb(178, 180, 180);
+}
+.bck-color{
+  background-color: rgb(193, 197, 197);
+ 
+}
+span{
+  color: rgb(178, 180, 180);
+}
+.fuente{
+  font-family: 'Raleway', sans-serif;
 }
