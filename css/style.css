@@ -56,10 +56,9 @@ display: flex;
   padding-right: 60px;
 }
 .caja-subtitulo{
-  width: 250px;
-    text-align: center;
+ 
     font-size: 25px;
-    padding-bottom: 10px;
+    
 }
 .caja-titulo{
   padding: 50px;
